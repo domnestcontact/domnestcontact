@@ -1,5 +1,13 @@
 
-[Compare domain, hosting and SSL prices](https://www.domnest.com)
+# [Compare domain, hosting and SSL prices](https://www.domnest.com)
+
+## Popular TLDs Comparison
+- [Cheapest .com Registration, Renewal and Transfer Prices](https://www.domnest.com/tld/com)
+- [Cheapest .net Registration, Renewal and Transfer Prices](https://www.domnest.com/tld/net)
+- [Cheapest .io Registration, Renewal and Transfer Prices](https://www.domnest.com/tld/io)
+- [Cheapest .org Registration, Renewal and Transfer Prices](https://www.domnest.com/tld/org)
+- [Cheapest .co Registration, Renewal and Transfer Prices](https://www.domnest.com/tld/co)
+- [Cheapest .xyz Registration, Renewal and Transfer Prices](https://www.domnest.com/tld/xyz)
 
 ## Hosting Price Comparison
 
